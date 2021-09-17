@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\bin\Debug\net5.0\Vegetable Market.exe
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\bin\Debug\net5.0\Vegetable Market.deps.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\bin\Debug\net5.0\Vegetable Market.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\bin\Debug\net5.0\Vegetable Market.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\bin\Debug\net5.0\Vegetable Market.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\bin\Debug\net5.0\ref\Vegetable Market.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\bin\Debug\net5.0\Vegetable Market.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\ref\Vegetable Market.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Vegetable Market\obj\Debug\net5.0\Vegetable Market.genruntimeconfig.cache

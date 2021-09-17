@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\bin\Debug\net5.0\1-On Time for the Exam.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\bin\Debug\net5.0\1-On Time for the Exam.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\bin\Debug\net5.0\1-On Time for the Exam.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\bin\Debug\net5.0\1-On Time for the Exam.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\bin\Debug\net5.0\1-On Time for the Exam.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\bin\Debug\net5.0\ref\1-On Time for the Exam.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\bin\Debug\net5.0\1-On Time for the Exam.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\ref\1-On Time for the Exam.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\1-On Time for the Exam\obj\Debug\net5.0\1-On Time for the Exam.genruntimeconfig.cache

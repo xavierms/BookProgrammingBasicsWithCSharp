@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\bin\Debug\net5.0\08-Summing Up Seconds.exe
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\bin\Debug\net5.0\08-Summing Up Seconds.deps.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\bin\Debug\net5.0\08-Summing Up Seconds.runtimeconfig.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\bin\Debug\net5.0\08-Summing Up Seconds.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\bin\Debug\net5.0\08-Summing Up Seconds.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\bin\Debug\net5.0\ref\08-Summing Up Seconds.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\bin\Debug\net5.0\08-Summing Up Seconds.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\08-Summing Up Seconds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\08-Summing Up Seconds.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\08-Summing Up Seconds.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\08-Summing Up Seconds.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\08-Summing Up Seconds.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\ref\08-Summing Up Seconds.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\08-Summing Up Seconds.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\Summing Up Seconds\obj\Debug\net5.0\08-Summing Up Seconds.genruntimeconfig.cache

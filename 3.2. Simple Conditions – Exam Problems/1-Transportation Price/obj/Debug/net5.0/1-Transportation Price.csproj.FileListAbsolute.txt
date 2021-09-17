@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\bin\Debug\net5.0\1-Transportation Price.exe
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\bin\Debug\net5.0\1-Transportation Price.deps.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\bin\Debug\net5.0\1-Transportation Price.runtimeconfig.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\bin\Debug\net5.0\1-Transportation Price.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\bin\Debug\net5.0\1-Transportation Price.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\bin\Debug\net5.0\ref\1-Transportation Price.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\bin\Debug\net5.0\1-Transportation Price.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\ref\1-Transportation Price.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\1-Transportation Price\obj\Debug\net5.0\1-Transportation Price.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\bin\Debug\net5.0\área del triángulo.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\bin\Debug\net5.0\área del triángulo.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\bin\Debug\net5.0\área del triángulo.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\bin\Debug\net5.0\área del triángulo.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\bin\Debug\net5.0\área del triángulo.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\bin\Debug\net5.0\ref\área del triángulo.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\bin\Debug\net5.0\área del triángulo.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\área del triángulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\área del triángulo.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\área del triángulo.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\área del triángulo.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\área del triángulo.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\ref\área del triángulo.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\área del triángulo.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\área del triángulo\obj\Debug\net5.0\área del triángulo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\bin\Debug\net5.0\Concatenating Text and Numbers.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\bin\Debug\net5.0\Concatenating Text and Numbers.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\bin\Debug\net5.0\Concatenating Text and Numbers.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\bin\Debug\net5.0\Concatenating Text and Numbers.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\bin\Debug\net5.0\Concatenating Text and Numbers.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\bin\Debug\net5.0\ref\Concatenating Text and Numbers.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\bin\Debug\net5.0\Concatenating Text and Numbers.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\ref\Concatenating Text and Numbers.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Concatenating Text and Numbers\obj\Debug\net5.0\Concatenating Text and Numbers.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\bin\Debug\net5.0\15-Equal 3 Numbers.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\bin\Debug\net5.0\15-Equal 3 Numbers.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\bin\Debug\net5.0\15-Equal 3 Numbers.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\bin\Debug\net5.0\15-Equal 3 Numbers.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\bin\Debug\net5.0\15-Equal 3 Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\bin\Debug\net5.0\ref\15-Equal 3 Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\bin\Debug\net5.0\15-Equal 3 Numbers.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\15-Equal 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\15-Equal 3 Numbers.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\15-Equal 3 Numbers.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\15-Equal 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\15-Equal 3 Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\ref\15-Equal 3 Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\15-Equal 3 Numbers.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\15-Equal 3 Numbers\obj\Debug\net5.0\15-Equal 3 Numbers.genruntimeconfig.cache

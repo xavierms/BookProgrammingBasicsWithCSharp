@@ -1,0 +1,10 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\bin\Debug\Converter from BGN to EUR.exe.config
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\bin\Debug\Converter from BGN to EUR.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\bin\Debug\Converter from BGN to EUR.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\obj\Debug\Converter from BGN to EUR.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\obj\Debug\Converter_from_BGN_to_EUR.Form1.resources
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\obj\Debug\Converter_from_BGN_to_EUR.Properties.Resources.resources
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\obj\Debug\Converter from BGN to EUR.csproj.GenerateResource.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\obj\Debug\Converter from BGN to EUR.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\obj\Debug\Converter from BGN to EUR.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Converter from BGN to EUR\obj\Debug\Converter from BGN to EUR.pdb

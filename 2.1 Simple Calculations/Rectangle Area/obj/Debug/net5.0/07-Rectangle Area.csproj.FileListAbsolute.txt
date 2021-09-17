@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\bin\Debug\net5.0\07-Rectangle Area.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\bin\Debug\net5.0\07-Rectangle Area.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\bin\Debug\net5.0\07-Rectangle Area.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\bin\Debug\net5.0\07-Rectangle Area.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\bin\Debug\net5.0\07-Rectangle Area.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\bin\Debug\net5.0\ref\07-Rectangle Area.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\bin\Debug\net5.0\07-Rectangle Area.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\ref\07-Rectangle Area.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\2.1 Simple Calculations\Rectangle Area\obj\Debug\net5.0\07-Rectangle Area.genruntimeconfig.cache

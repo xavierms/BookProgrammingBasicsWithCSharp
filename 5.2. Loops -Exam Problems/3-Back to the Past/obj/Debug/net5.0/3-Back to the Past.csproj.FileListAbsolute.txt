@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\bin\Debug\net5.0\3-Back to the Past.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\bin\Debug\net5.0\3-Back to the Past.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\bin\Debug\net5.0\3-Back to the Past.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\bin\Debug\net5.0\3-Back to the Past.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\bin\Debug\net5.0\3-Back to the Past.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\bin\Debug\net5.0\ref\3-Back to the Past.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\bin\Debug\net5.0\3-Back to the Past.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\ref\3-Back to the Past.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\3-Back to the Past\obj\Debug\net5.0\3-Back to the Past.genruntimeconfig.cache

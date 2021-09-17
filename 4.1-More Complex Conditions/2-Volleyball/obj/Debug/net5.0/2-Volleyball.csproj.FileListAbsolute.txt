@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\bin\Debug\net5.0\2-Volleyball.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\bin\Debug\net5.0\2-Volleyball.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\bin\Debug\net5.0\2-Volleyball.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\bin\Debug\net5.0\2-Volleyball.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\bin\Debug\net5.0\2-Volleyball.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\bin\Debug\net5.0\ref\2-Volleyball.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\bin\Debug\net5.0\2-Volleyball.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\ref\2-Volleyball.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\2-Volleyball\obj\Debug\net5.0\2-Volleyball.genruntimeconfig.cache

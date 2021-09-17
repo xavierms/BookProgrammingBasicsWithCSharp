@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\bin\Debug\net5.0\1-Cinema.exe
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\bin\Debug\net5.0\1-Cinema.deps.json
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\bin\Debug\net5.0\1-Cinema.runtimeconfig.json
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\bin\Debug\net5.0\1-Cinema.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\bin\Debug\net5.0\1-Cinema.dll
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\bin\Debug\net5.0\ref\1-Cinema.dll
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\bin\Debug\net5.0\1-Cinema.pdb
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.dll
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\ref\1-Cinema.dll
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.pdb
+C:\Users\x.mejia\source\repos\4.1-More Complex Conditions\1-Cinema\obj\Debug\net5.0\1-Cinema.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\bin\Debug\net5.0\06-Circle Area and Perimeter.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\bin\Debug\net5.0\06-Circle Area and Perimeter.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\bin\Debug\net5.0\06-Circle Area and Perimeter.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\bin\Debug\net5.0\06-Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\bin\Debug\net5.0\06-Circle Area and Perimeter.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\bin\Debug\net5.0\ref\06-Circle Area and Perimeter.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\bin\Debug\net5.0\06-Circle Area and Perimeter.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\06-Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\06-Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\06-Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\06-Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\06-Circle Area and Perimeter.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\ref\06-Circle Area and Perimeter.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\06-Circle Area and Perimeter.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Circle Area and Perimeter\obj\Debug\net5.0\06-Circle Area and Perimeter.genruntimeconfig.cache

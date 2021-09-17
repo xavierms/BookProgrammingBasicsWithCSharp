@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\bin\Debug\net5.0\Training Lab.exe
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\bin\Debug\net5.0\Training Lab.deps.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\bin\Debug\net5.0\Training Lab.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\bin\Debug\net5.0\Training Lab.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\bin\Debug\net5.0\Training Lab.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\bin\Debug\net5.0\ref\Training Lab.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\bin\Debug\net5.0\Training Lab.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\ref\Training Lab.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Training Lab\obj\Debug\net5.0\Training Lab.genruntimeconfig.cache

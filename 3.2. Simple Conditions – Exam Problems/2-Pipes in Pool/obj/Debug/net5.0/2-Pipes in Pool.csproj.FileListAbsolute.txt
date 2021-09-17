@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\bin\Debug\net5.0\2-Pipes in Pool.exe
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\bin\Debug\net5.0\2-Pipes in Pool.deps.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\bin\Debug\net5.0\2-Pipes in Pool.runtimeconfig.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\bin\Debug\net5.0\2-Pipes in Pool.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\bin\Debug\net5.0\2-Pipes in Pool.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\bin\Debug\net5.0\ref\2-Pipes in Pool.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\bin\Debug\net5.0\2-Pipes in Pool.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\ref\2-Pipes in Pool.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\Pipes in Pool\obj\Debug\net5.0\2-Pipes in Pool.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\bin\Debug\net5.0\Trapezoid Area.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\bin\Debug\net5.0\Trapezoid Area.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\bin\Debug\net5.0\Trapezoid Area.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\bin\Debug\net5.0\Trapezoid Area.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\bin\Debug\net5.0\Trapezoid Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\bin\Debug\net5.0\ref\Trapezoid Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\bin\Debug\net5.0\Trapezoid Area.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\Trapezoid Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\Trapezoid Area.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\Trapezoid Area.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\Trapezoid Area.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\Trapezoid Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\ref\Trapezoid Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\Trapezoid Area.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Trapezoid Area\obj\Debug\net5.0\Trapezoid Area.genruntimeconfig.cache

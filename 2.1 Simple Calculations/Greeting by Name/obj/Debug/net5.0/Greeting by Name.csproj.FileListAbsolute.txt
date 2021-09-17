@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\bin\Debug\net5.0\Greeting by Name.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\bin\Debug\net5.0\Greeting by Name.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\bin\Debug\net5.0\Greeting by Name.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\bin\Debug\net5.0\Greeting by Name.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\bin\Debug\net5.0\Greeting by Name.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\bin\Debug\net5.0\ref\Greeting by Name.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\bin\Debug\net5.0\Greeting by Name.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\ref\Greeting by Name.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Greeting by Name\obj\Debug\net5.0\Greeting by Name.genruntimeconfig.cache

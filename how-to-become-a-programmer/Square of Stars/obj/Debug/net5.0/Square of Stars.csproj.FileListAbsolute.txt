@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\bin\Debug\net5.0\Square of Stars.exe
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\bin\Debug\net5.0\Square of Stars.deps.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\bin\Debug\net5.0\Square of Stars.runtimeconfig.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\bin\Debug\net5.0\Square of Stars.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\bin\Debug\net5.0\Square of Stars.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\bin\Debug\net5.0\ref\Square of Stars.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\bin\Debug\net5.0\Square of Stars.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\ref\Square of Stars.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.genruntimeconfig.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Square of Stars\obj\Debug\net5.0\Square of Stars.csproj.AssemblyReference.cache

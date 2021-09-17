@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\bin\Debug\net5.0\09-°C Degrees to °F Degrees.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\bin\Debug\net5.0\09-°C Degrees to °F Degrees.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\bin\Debug\net5.0\09-°C Degrees to °F Degrees.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\bin\Debug\net5.0\09-°C Degrees to °F Degrees.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\bin\Debug\net5.0\09-°C Degrees to °F Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\bin\Debug\net5.0\ref\09-°C Degrees to °F Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\bin\Debug\net5.0\09-°C Degrees to °F Degrees.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\09-°C Degrees to °F Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\09-°C Degrees to °F Degrees.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\09-°C Degrees to °F Degrees.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\09-°C Degrees to °F Degrees.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\09-°C Degrees to °F Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\ref\09-°C Degrees to °F Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\09-°C Degrees to °F Degrees.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\°C Degrees to °F Degrees\obj\Debug\net5.0\09-°C Degrees to °F Degrees.genruntimeconfig.cache

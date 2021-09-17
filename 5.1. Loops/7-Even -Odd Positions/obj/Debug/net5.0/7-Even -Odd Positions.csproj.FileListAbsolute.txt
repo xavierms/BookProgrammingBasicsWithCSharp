@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\bin\Debug\net5.0\7-Even -Odd Positions.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\bin\Debug\net5.0\7-Even -Odd Positions.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\bin\Debug\net5.0\7-Even -Odd Positions.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\bin\Debug\net5.0\7-Even -Odd Positions.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\bin\Debug\net5.0\7-Even -Odd Positions.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\bin\Debug\net5.0\ref\7-Even -Odd Positions.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\bin\Debug\net5.0\7-Even -Odd Positions.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\ref\7-Even -Odd Positions.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.genruntimeconfig.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\7-Even -Odd Positions\obj\Debug\net5.0\7-Even -Odd Positions.csproj.AssemblyReference.cache

@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\bin\Debug\net5.0\04-Finding the Greater Number.exe
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\bin\Debug\net5.0\04-Finding the Greater Number.deps.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\bin\Debug\net5.0\04-Finding the Greater Number.runtimeconfig.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\bin\Debug\net5.0\04-Finding the Greater Number.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\bin\Debug\net5.0\04-Finding the Greater Number.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\bin\Debug\net5.0\ref\04-Finding the Greater Number.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\bin\Debug\net5.0\04-Finding the Greater Number.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\ref\04-Finding the Greater Number.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\Finding the Greater Number\obj\Debug\net5.0\04-Finding the Greater Number.genruntimeconfig.cache

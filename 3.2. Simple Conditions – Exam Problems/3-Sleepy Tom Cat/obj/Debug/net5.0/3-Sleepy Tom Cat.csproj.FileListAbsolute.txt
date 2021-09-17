@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\bin\Debug\net5.0\3-Sleepy Tom Cat.exe
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\bin\Debug\net5.0\3-Sleepy Tom Cat.deps.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\bin\Debug\net5.0\3-Sleepy Tom Cat.runtimeconfig.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\bin\Debug\net5.0\3-Sleepy Tom Cat.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\bin\Debug\net5.0\3-Sleepy Tom Cat.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\bin\Debug\net5.0\ref\3-Sleepy Tom Cat.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\bin\Debug\net5.0\3-Sleepy Tom Cat.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\ref\3-Sleepy Tom Cat.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\03-Sleepy Tom Cat\obj\Debug\net5.0\3-Sleepy Tom Cat.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\obj\Debug\Currency Converter.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\obj\Debug\Currency_Converter.Properties.Resources.resources
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\obj\Debug\Currency Converter.csproj.GenerateResource.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\obj\Debug\Currency Converter.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\obj\Debug\Currency Converter.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\Currency Converter\obj\Debug\Currency_Converter.FormConverter.resources

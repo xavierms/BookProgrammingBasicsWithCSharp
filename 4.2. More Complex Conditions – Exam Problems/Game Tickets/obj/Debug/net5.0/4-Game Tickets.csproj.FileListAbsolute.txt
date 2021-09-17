@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\bin\Debug\net5.0\4-Game Tickets.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\bin\Debug\net5.0\4-Game Tickets.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\bin\Debug\net5.0\4-Game Tickets.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\bin\Debug\net5.0\4-Game Tickets.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\bin\Debug\net5.0\4-Game Tickets.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\bin\Debug\net5.0\ref\4-Game Tickets.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\bin\Debug\net5.0\4-Game Tickets.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\ref\4-Game Tickets.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Game Tickets\obj\Debug\net5.0\4-Game Tickets.genruntimeconfig.cache

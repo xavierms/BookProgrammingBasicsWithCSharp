@@ -1,0 +1,19 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\13-Areas of Figures.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\13-Areas of Figures.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\13-Areas of Figures.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\13-Areas of Figures.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\13-Areas of Figures.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\ref\13-Areas of Figures.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\13-Areas of Figures.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\bin\Debug\net5.0\FakeItEasy.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.csproj.CopyComplete
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\ref\13-Areas of Figures.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\13-Areas of Figures\obj\Debug\net5.0\13-Areas of Figures.genruntimeconfig.cache

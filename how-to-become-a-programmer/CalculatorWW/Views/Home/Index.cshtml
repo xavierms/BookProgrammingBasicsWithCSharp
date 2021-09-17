@@ -1,0 +1,20 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+<h2>Calculator</h2>
+<form action="/home/Index" method="post">
+    <label class="badge">Firts number: </label><br />
+    <input type="number" class="form-control col-6" name="num1" value="@ViewBag.num1" />
+    <br />
+    <p>+</p>
+
+    <label class="badge">Second number: </label>
+    <input type="number" class="form-control col-6" name="num2" value="@ViewBag.num2" />
+    <p>=</p>
+    <input type="number" readonly="readonly" value="@ViewBag.sum" />
+
+    <input type="submit" value="Calculate" />
+</form>
+

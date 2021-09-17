@@ -1,0 +1,12 @@
+Cuantas veces Valdimir ha jugado Volleybol en un año????
+
+juega fines de semana y dias festivo
+juega los sbados en Sofia
+no trabaja no viaja
+2/3 vacaciones viaja h vece al ano
+y juega los domingos cuando viaja
+no trabaja 3/4 partes de los wk 
+anos bisiestos juega 15%
+ano = 48 wk
+redondear con ceiling
+

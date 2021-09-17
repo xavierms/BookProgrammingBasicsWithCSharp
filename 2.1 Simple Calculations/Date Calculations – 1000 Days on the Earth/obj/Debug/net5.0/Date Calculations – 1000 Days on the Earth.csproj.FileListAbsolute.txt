@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\bin\Debug\net5.0\Date Calculations – 1000 Days on the Earth.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\bin\Debug\net5.0\Date Calculations – 1000 Days on the Earth.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\bin\Debug\net5.0\Date Calculations – 1000 Days on the Earth.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\bin\Debug\net5.0\Date Calculations – 1000 Days on the Earth.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\bin\Debug\net5.0\Date Calculations – 1000 Days on the Earth.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\bin\Debug\net5.0\ref\Date Calculations – 1000 Days on the Earth.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\bin\Debug\net5.0\Date Calculations – 1000 Days on the Earth.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\Date Calculations – 1000 Days on the Earth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\Date Calculations – 1000 Days on the Earth.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\Date Calculations – 1000 Days on the Earth.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\Date Calculations – 1000 Days on the Earth.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\Date Calculations – 1000 Days on the Earth.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\ref\Date Calculations – 1000 Days on the Earth.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\Date Calculations – 1000 Days on the Earth.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Date Calculations – 1000 Days on the Earth\obj\Debug\net5.0\Date Calculations – 1000 Days on the Earth.genruntimeconfig.cache

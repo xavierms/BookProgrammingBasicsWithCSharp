@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\bin\Debug\net5.0\3-Operations with Numbers.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\bin\Debug\net5.0\3-Operations with Numbers.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\bin\Debug\net5.0\3-Operations with Numbers.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\bin\Debug\net5.0\3-Operations with Numbers.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\bin\Debug\net5.0\3-Operations with Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\bin\Debug\net5.0\ref\3-Operations with Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\bin\Debug\net5.0\3-Operations with Numbers.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\ref\3-Operations with Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\Operations with Numbers\obj\Debug\net5.0\3-Operations with Numbers.genruntimeconfig.cache

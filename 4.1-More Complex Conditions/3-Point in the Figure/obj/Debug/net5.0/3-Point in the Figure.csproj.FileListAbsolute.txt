@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\bin\Debug\net5.0\3-Point in the Figure.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\bin\Debug\net5.0\3-Point in the Figure.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\bin\Debug\net5.0\3-Point in the Figure.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\bin\Debug\net5.0\3-Point in the Figure.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\bin\Debug\net5.0\3-Point in the Figure.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\bin\Debug\net5.0\ref\3-Point in the Figure.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\bin\Debug\net5.0\3-Point in the Figure.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\ref\3-Point in the Figure.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\3-Point in the Figure\obj\Debug\net5.0\3-Point in the Figure.genruntimeconfig.cache

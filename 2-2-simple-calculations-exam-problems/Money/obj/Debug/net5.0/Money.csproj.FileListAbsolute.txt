@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\bin\Debug\net5.0\Money.exe
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\bin\Debug\net5.0\Money.deps.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\bin\Debug\net5.0\Money.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\bin\Debug\net5.0\Money.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\bin\Debug\net5.0\Money.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\bin\Debug\net5.0\ref\Money.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\bin\Debug\net5.0\Money.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\ref\Money.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Money\obj\Debug\net5.0\Money.genruntimeconfig.cache

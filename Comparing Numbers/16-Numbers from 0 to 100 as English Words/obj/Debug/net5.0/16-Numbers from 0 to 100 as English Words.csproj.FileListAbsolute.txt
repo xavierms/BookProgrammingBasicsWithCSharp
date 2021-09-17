@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\bin\Debug\net5.0\16-Numbers from 0 to 100 as English Words.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\bin\Debug\net5.0\16-Numbers from 0 to 100 as English Words.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\bin\Debug\net5.0\16-Numbers from 0 to 100 as English Words.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\bin\Debug\net5.0\16-Numbers from 0 to 100 as English Words.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\bin\Debug\net5.0\16-Numbers from 0 to 100 as English Words.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\bin\Debug\net5.0\ref\16-Numbers from 0 to 100 as English Words.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\bin\Debug\net5.0\16-Numbers from 0 to 100 as English Words.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\16-Numbers from 0 to 100 as English Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\16-Numbers from 0 to 100 as English Words.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\16-Numbers from 0 to 100 as English Words.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\16-Numbers from 0 to 100 as English Words.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\16-Numbers from 0 to 100 as English Words.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\ref\16-Numbers from 0 to 100 as English Words.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\16-Numbers from 0 to 100 as English Words.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\Comparing Numbers\16-Numbers from 0 to 100 as English Words\obj\Debug\net5.0\16-Numbers from 0 to 100 as English Words.genruntimeconfig.cache

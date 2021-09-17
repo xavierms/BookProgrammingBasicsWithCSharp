@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\bin\Debug\net5.0\10-Radians to Degrees.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\bin\Debug\net5.0\10-Radians to Degrees.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\bin\Debug\net5.0\10-Radians to Degrees.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\bin\Debug\net5.0\10-Radians to Degrees.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\bin\Debug\net5.0\10-Radians to Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\bin\Debug\net5.0\ref\10-Radians to Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\bin\Debug\net5.0\10-Radians to Degrees.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\10-Radians to Degrees.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\10-Radians to Degrees.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\10-Radians to Degrees.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\10-Radians to Degrees.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\10-Radians to Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\ref\10-Radians to Degrees.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\10-Radians to Degrees.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\10-Radians to Degrees\obj\Debug\net5.0\10-Radians to Degrees.genruntimeconfig.cache

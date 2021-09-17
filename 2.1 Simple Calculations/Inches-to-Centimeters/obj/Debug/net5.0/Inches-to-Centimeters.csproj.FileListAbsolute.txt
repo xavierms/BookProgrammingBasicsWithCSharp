@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\bin\Debug\net5.0\Inches-to-Centimeters.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\bin\Debug\net5.0\Inches-to-Centimeters.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\bin\Debug\net5.0\Inches-to-Centimeters.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\bin\Debug\net5.0\Inches-to-Centimeters.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\bin\Debug\net5.0\Inches-to-Centimeters.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\bin\Debug\net5.0\ref\Inches-to-Centimeters.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\bin\Debug\net5.0\Inches-to-Centimeters.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\ref\Inches-to-Centimeters.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Inches-to-Centimeters\obj\Debug\net5.0\Inches-to-Centimeters.genruntimeconfig.cache

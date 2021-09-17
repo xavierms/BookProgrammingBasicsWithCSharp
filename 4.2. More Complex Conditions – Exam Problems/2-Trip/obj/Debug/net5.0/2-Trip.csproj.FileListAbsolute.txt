@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\bin\Debug\net5.0\2-Trip.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\bin\Debug\net5.0\2-Trip.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\bin\Debug\net5.0\2-Trip.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\bin\Debug\net5.0\2-Trip.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\bin\Debug\net5.0\2-Trip.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\bin\Debug\net5.0\ref\2-Trip.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\bin\Debug\net5.0\2-Trip.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\ref\2-Trip.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\2-Trip\obj\Debug\net5.0\2-Trip.genruntimeconfig.cache

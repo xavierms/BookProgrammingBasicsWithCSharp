@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\bin\Debug\net5.0\Even or Odd.exe
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\bin\Debug\net5.0\Even or Odd.deps.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\bin\Debug\net5.0\Even or Odd.runtimeconfig.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\bin\Debug\net5.0\Even or Odd.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\bin\Debug\net5.0\Even or Odd.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\bin\Debug\net5.0\ref\Even or Odd.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\bin\Debug\net5.0\Even or Odd.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\ref\Even or Odd.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\Even or Odd\obj\Debug\net5.0\Even or Odd.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\bin\Debug\net5.0\1-Summing up Numbers.exe
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\bin\Debug\net5.0\1-Summing up Numbers.deps.json
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\bin\Debug\net5.0\1-Summing up Numbers.runtimeconfig.json
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\bin\Debug\net5.0\1-Summing up Numbers.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\bin\Debug\net5.0\1-Summing up Numbers.dll
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\bin\Debug\net5.0\ref\1-Summing up Numbers.dll
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\bin\Debug\net5.0\1-Summing up Numbers.pdb
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.dll
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\ref\1-Summing up Numbers.dll
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.pdb
+C:\Users\x.mejia\source\repos\5.1. Loops\1-Summing up Numbers\obj\Debug\net5.0\1-Summing up Numbers.genruntimeconfig.cache

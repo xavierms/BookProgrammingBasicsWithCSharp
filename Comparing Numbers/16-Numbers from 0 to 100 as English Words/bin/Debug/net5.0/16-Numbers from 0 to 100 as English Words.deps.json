@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "16-Numbers from 0 to 100 as English Words/1.0.0": {
+        "runtime": {
+          "16-Numbers from 0 to 100 as English Words.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "16-Numbers from 0 to 100 as English Words/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\bin\Debug\net5.0\5-Sum of Vowels.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\bin\Debug\net5.0\5-Sum of Vowels.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\bin\Debug\net5.0\5-Sum of Vowels.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\bin\Debug\net5.0\5-Sum of Vowels.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\bin\Debug\net5.0\5-Sum of Vowels.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\bin\Debug\net5.0\ref\5-Sum of Vowels.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\bin\Debug\net5.0\5-Sum of Vowels.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\ref\5-Sum of Vowels.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\5-Sum of Vowels\obj\Debug\net5.0\5-Sum of Vowels.genruntimeconfig.cache

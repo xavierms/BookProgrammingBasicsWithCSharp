@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\bin\Debug\net5.0\Calculating Square Area.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\bin\Debug\net5.0\Calculating Square Area.deps.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\bin\Debug\net5.0\Calculating Square Area.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\bin\Debug\net5.0\Calculating Square Area.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\bin\Debug\net5.0\Calculating Square Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\bin\Debug\net5.0\ref\Calculating Square Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\bin\Debug\net5.0\Calculating Square Area.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\ref\Calculating Square Area.dll
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\2.1 Simple Calculations\obj\Debug\net5.0\Calculating Square Area.genruntimeconfig.cache

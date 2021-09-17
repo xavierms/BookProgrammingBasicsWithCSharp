@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\bin\Debug\net5.0\Nums1To20.exe
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\bin\Debug\net5.0\Nums1To20.deps.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\bin\Debug\net5.0\Nums1To20.runtimeconfig.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\bin\Debug\net5.0\Nums1To20.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\bin\Debug\net5.0\Nums1To20.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\bin\Debug\net5.0\ref\Nums1To20.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\bin\Debug\net5.0\Nums1To20.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\ref\Nums1To20.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\Nums1To20\obj\Debug\net5.0\Nums1To20.genruntimeconfig.cache

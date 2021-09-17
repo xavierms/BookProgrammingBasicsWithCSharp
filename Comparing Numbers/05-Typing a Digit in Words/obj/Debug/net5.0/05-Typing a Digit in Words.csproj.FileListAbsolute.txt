@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\bin\Debug\net5.0\05-Typing a Digit in Words.exe
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\bin\Debug\net5.0\05-Typing a Digit in Words.deps.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\bin\Debug\net5.0\05-Typing a Digit in Words.runtimeconfig.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\bin\Debug\net5.0\05-Typing a Digit in Words.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\bin\Debug\net5.0\05-Typing a Digit in Words.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\bin\Debug\net5.0\ref\05-Typing a Digit in Words.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\bin\Debug\net5.0\05-Typing a Digit in Words.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\05-Typing a Digit in Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\05-Typing a Digit in Words.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\05-Typing a Digit in Words.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\05-Typing a Digit in Words.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\05-Typing a Digit in Words.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\ref\05-Typing a Digit in Words.dll
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\05-Typing a Digit in Words.pdb
+C:\Users\x.mejia\source\repos\Comparing Numbers\05-Typing a Digit in Words\obj\Debug\net5.0\05-Typing a Digit in Words.genruntimeconfig.cache

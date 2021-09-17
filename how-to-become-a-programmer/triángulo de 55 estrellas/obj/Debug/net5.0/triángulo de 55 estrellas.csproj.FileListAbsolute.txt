@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\bin\Debug\net5.0\triángulo de 55 estrellas.exe
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\bin\Debug\net5.0\triángulo de 55 estrellas.deps.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\bin\Debug\net5.0\triángulo de 55 estrellas.runtimeconfig.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\bin\Debug\net5.0\triángulo de 55 estrellas.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\bin\Debug\net5.0\triángulo de 55 estrellas.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\bin\Debug\net5.0\ref\triángulo de 55 estrellas.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\bin\Debug\net5.0\triángulo de 55 estrellas.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\ref\triángulo de 55 estrellas.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\triángulo de 55 estrellas\obj\Debug\net5.0\triángulo de 55 estrellas.genruntimeconfig.cache

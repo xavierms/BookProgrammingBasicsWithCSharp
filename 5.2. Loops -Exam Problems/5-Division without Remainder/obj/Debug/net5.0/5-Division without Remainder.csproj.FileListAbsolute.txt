@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\bin\Debug\net5.0\5-Division without Remainder.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\bin\Debug\net5.0\5-Division without Remainder.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\bin\Debug\net5.0\5-Division without Remainder.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\bin\Debug\net5.0\5-Division without Remainder.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\bin\Debug\net5.0\5-Division without Remainder.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\bin\Debug\net5.0\ref\5-Division without Remainder.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\bin\Debug\net5.0\5-Division without Remainder.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\5-Division without Remainder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\5-Division without Remainder.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\5-Division without Remainder.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\5-Division without Remainder.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\5-Division without Remainder.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\ref\5-Division without Remainder.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\5-Division without Remainder.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.2. Loops -Exam Problems\5-Division without Remainder\obj\Debug\net5.0\5-Division without Remainder.genruntimeconfig.cache

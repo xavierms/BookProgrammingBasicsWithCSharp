@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\bin\Debug\net5.0\5-Hotel Room.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\bin\Debug\net5.0\5-Hotel Room.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\bin\Debug\net5.0\5-Hotel Room.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\bin\Debug\net5.0\5-Hotel Room.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\bin\Debug\net5.0\5-Hotel Room.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\bin\Debug\net5.0\ref\5-Hotel Room.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\bin\Debug\net5.0\5-Hotel Room.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\ref\5-Hotel Room.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.2. More Complex Conditions – Exam Problems\5-Hotel Room\obj\Debug\net5.0\5-Hotel Room.genruntimeconfig.cache

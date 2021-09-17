@@ -1,0 +1,10 @@
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\bin\Debug\Catch the Button!.exe.config
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\bin\Debug\Catch the Button!.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\bin\Debug\Catch the Button!.pdb
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\obj\Debug\Catch the Button!.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\obj\Debug\Catch_the_Button_.Form1.resources
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\obj\Debug\Catch_the_Button_.Properties.Resources.resources
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\obj\Debug\Catch the Button!.csproj.GenerateResource.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\obj\Debug\Catch the Button!.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\obj\Debug\Catch the Button!.exe
+C:\Users\x.mejia\source\repos\2.1 Simple Calculations\Catch the Button!\obj\Debug\Catch the Button!.pdb

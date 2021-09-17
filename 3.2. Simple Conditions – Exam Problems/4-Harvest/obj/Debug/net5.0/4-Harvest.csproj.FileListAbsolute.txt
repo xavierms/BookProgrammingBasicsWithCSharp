@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\bin\Debug\net5.0\4-Harvest.exe
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\bin\Debug\net5.0\4-Harvest.deps.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\bin\Debug\net5.0\4-Harvest.runtimeconfig.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\bin\Debug\net5.0\4-Harvest.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\bin\Debug\net5.0\4-Harvest.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\bin\Debug\net5.0\ref\4-Harvest.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\bin\Debug\net5.0\4-Harvest.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\ref\4-Harvest.dll
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.pdb
+C:\Users\x.mejia\source\repos\3.2. Simple Conditions – Exam Problems\4-Harvest\obj\Debug\net5.0\4-Harvest.genruntimeconfig.cache

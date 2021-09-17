@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\bin\Debug\net5.0\Daily Earnings.exe
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\bin\Debug\net5.0\Daily Earnings.deps.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\bin\Debug\net5.0\Daily Earnings.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\bin\Debug\net5.0\Daily Earnings.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\bin\Debug\net5.0\Daily Earnings.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\bin\Debug\net5.0\ref\Daily Earnings.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\bin\Debug\net5.0\Daily Earnings.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\ref\Daily Earnings.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Daily Earnings\obj\Debug\net5.0\Daily Earnings.genruntimeconfig.cache

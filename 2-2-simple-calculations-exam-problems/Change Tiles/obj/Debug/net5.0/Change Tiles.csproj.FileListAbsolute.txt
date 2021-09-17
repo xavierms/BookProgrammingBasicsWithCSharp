@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\bin\Debug\net5.0\Change Tiles.exe
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\bin\Debug\net5.0\Change Tiles.deps.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\bin\Debug\net5.0\Change Tiles.runtimeconfig.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\bin\Debug\net5.0\Change Tiles.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\bin\Debug\net5.0\Change Tiles.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\bin\Debug\net5.0\ref\Change Tiles.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\bin\Debug\net5.0\Change Tiles.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\ref\Change Tiles.dll
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.pdb
+C:\Users\x.mejia\source\repos\2-2-simple-calculations-exam-problems\Change Tiles\obj\Debug\net5.0\Change Tiles.genruntimeconfig.cache

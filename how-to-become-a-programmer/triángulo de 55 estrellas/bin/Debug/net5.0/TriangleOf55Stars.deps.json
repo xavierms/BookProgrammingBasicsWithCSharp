@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TriangleOf55Stars/1.0.0": {
+        "runtime": {
+          "TriangleOf55Stars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TriangleOf55Stars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

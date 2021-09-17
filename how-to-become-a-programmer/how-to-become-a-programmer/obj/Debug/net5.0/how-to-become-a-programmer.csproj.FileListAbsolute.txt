@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\bin\Debug\net5.0\how-to-become-a-programmer.exe
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\bin\Debug\net5.0\how-to-become-a-programmer.deps.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\bin\Debug\net5.0\how-to-become-a-programmer.runtimeconfig.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\bin\Debug\net5.0\how-to-become-a-programmer.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\bin\Debug\net5.0\how-to-become-a-programmer.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\bin\Debug\net5.0\ref\how-to-become-a-programmer.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\bin\Debug\net5.0\how-to-become-a-programmer.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\ref\how-to-become-a-programmer.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\how-to-become-a-programmer\obj\Debug\net5.0\how-to-become-a-programmer.genruntimeconfig.cache

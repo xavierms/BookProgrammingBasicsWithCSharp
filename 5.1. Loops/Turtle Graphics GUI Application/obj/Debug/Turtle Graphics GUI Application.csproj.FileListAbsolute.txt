@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\bin\Debug\Turtle Graphics GUI Application.exe.config
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\bin\Debug\Turtle Graphics GUI Application.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\bin\Debug\Turtle Graphics GUI Application.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\bin\Debug\Nakov.TurtleGraphics.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle Graphics GUI Application.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle_Graphics_GUI_Application.FormTurtleGraphics.resources
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle_Graphics_GUI_Application.Properties.Resources.resources
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle Graphics GUI Application.csproj.GenerateResource.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle Graphics GUI Application.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle Graphics GUI Application.csproj.CopyComplete
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle Graphics GUI Application.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\5.1. Loops\Turtle Graphics GUI Application\obj\Debug\Turtle Graphics GUI Application.pdb

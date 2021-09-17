@@ -1,0 +1,10 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\bin\Debug\Point and Rectangle.exe.config
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\bin\Debug\Point and Rectangle.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\bin\Debug\Point and Rectangle.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\obj\Debug\Point and Rectangle.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\obj\Debug\Point_and_Rectangle.FormPointAndRectangle.resources
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\obj\Debug\Point_and_Rectangle.Properties.Resources.resources
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\obj\Debug\Point and Rectangle.csproj.GenerateResource.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\obj\Debug\Point and Rectangle.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\obj\Debug\Point and Rectangle.exe
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\4.1-More Complex Conditions\Point and Rectangle\obj\Debug\Point and Rectangle.pdb

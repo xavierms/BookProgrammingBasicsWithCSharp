@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\bin\Debug\net5.0\expression.exe
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\bin\Debug\net5.0\expression.deps.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\bin\Debug\net5.0\expression.runtimeconfig.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\bin\Debug\net5.0\expression.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\bin\Debug\net5.0\expression.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\bin\Debug\net5.0\ref\expression.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\bin\Debug\net5.0\expression.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\ref\expression.dll
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.pdb
+C:\Users\x.mejia\source\repos\how-to-become-a-programmer\expression\obj\Debug\net5.0\expression.genruntimeconfig.cache
