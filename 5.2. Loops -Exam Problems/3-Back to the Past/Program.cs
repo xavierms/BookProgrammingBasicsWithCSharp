@@ -42,6 +42,7 @@ namespace _3_Back_to_the_Past
             }
             else
             {
+                //un math.round dentro de un math.abs para que el valor que traiga no sea negativo  y despues redondearlo.
                 Console.WriteLine($"Necesitará  { Math.Abs(Math.Round( dineroHerencia,2) ) } dólares para sobrevivir");
             }
 

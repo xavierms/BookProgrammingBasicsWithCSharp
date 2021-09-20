@@ -8,7 +8,7 @@ namespace _2_Smart_Lilly
         static void Main()
         {
             Console.Write("Edad:");
-            int edad           = int.Parse(Console.ReadLine());
+            int edad              = int.Parse(Console.ReadLine());
             double precioLavadora = double.Parse(Console.ReadLine());
             double PrecioJuguete  = double.Parse(Console.ReadLine());
 

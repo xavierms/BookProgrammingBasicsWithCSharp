@@ -20,11 +20,11 @@ namespace _4_Even_Odd_Sum
                 if ( loop %  2 ==0)
                 {
                  
-                    impar += numeros_sumatoria;
+                   par += numeros_sumatoria;
                 }
                 else
                 {
-                    par += numeros_sumatoria;
+                     impar += numeros_sumatoria;
                 }
 
             }
