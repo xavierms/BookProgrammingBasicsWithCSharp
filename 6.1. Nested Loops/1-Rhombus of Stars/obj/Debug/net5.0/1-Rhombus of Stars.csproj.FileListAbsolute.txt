@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\bin\Debug\net5.0\1-Rhombus of Stars.exe
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\bin\Debug\net5.0\1-Rhombus of Stars.deps.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\bin\Debug\net5.0\1-Rhombus of Stars.runtimeconfig.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\bin\Debug\net5.0\1-Rhombus of Stars.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\bin\Debug\net5.0\1-Rhombus of Stars.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\bin\Debug\net5.0\ref\1-Rhombus of Stars.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\bin\Debug\net5.0\1-Rhombus of Stars.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\ref\1-Rhombus of Stars.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\1-Rhombus of Stars\obj\Debug\net5.0\1-Rhombus of Stars.genruntimeconfig.cache

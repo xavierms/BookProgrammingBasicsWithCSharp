@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\bin\Debug\net5.0\3-Sunglasses.exe
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\bin\Debug\net5.0\3-Sunglasses.deps.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\bin\Debug\net5.0\3-Sunglasses.runtimeconfig.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\bin\Debug\net5.0\3-Sunglasses.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\bin\Debug\net5.0\3-Sunglasses.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\bin\Debug\net5.0\ref\3-Sunglasses.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\bin\Debug\net5.0\3-Sunglasses.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\ref\3-Sunglasses.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\3-Sunglasses\obj\Debug\net5.0\3-Sunglasses.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\bin\Debug\net5.0\4-House.exe
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\bin\Debug\net5.0\4-House.deps.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\bin\Debug\net5.0\4-House.runtimeconfig.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\bin\Debug\net5.0\4-House.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\bin\Debug\net5.0\4-House.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\bin\Debug\net5.0\ref\4-House.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\bin\Debug\net5.0\4-House.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\ref\4-House.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\4-House\obj\Debug\net5.0\4-House.genruntimeconfig.cache

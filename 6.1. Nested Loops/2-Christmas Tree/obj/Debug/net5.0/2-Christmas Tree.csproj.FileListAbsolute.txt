@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\bin\Debug\net5.0\2-Christmas Tree.exe
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\bin\Debug\net5.0\2-Christmas Tree.deps.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\bin\Debug\net5.0\2-Christmas Tree.runtimeconfig.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\bin\Debug\net5.0\2-Christmas Tree.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\bin\Debug\net5.0\2-Christmas Tree.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\bin\Debug\net5.0\ref\2-Christmas Tree.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\bin\Debug\net5.0\2-Christmas Tree.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\ref\2-Christmas Tree.dll
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.pdb
+C:\Users\x.mejia\source\repos\6.1. Nested Loops\2-Christmas Tree\obj\Debug\net5.0\2-Christmas Tree.genruntimeconfig.cache

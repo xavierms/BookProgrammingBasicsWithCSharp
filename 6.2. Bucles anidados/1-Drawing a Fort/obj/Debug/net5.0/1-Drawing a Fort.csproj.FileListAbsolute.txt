@@ -1,0 +1,16 @@
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\bin\Debug\net5.0\1-Drawing a Fort.exe
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\bin\Debug\net5.0\1-Drawing a Fort.deps.json
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\bin\Debug\net5.0\1-Drawing a Fort.runtimeconfig.json
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\bin\Debug\net5.0\1-Drawing a Fort.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\bin\Debug\net5.0\1-Drawing a Fort.dll
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\bin\Debug\net5.0\ref\1-Drawing a Fort.dll
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\bin\Debug\net5.0\1-Drawing a Fort.pdb
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.dll
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\ref\1-Drawing a Fort.dll
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.pdb
+C:\Users\x.mejia\source\repos\6.2. Bucles anidados\1-Drawing a Fort\obj\Debug\net5.0\1-Drawing a Fort.genruntimeconfig.cache
