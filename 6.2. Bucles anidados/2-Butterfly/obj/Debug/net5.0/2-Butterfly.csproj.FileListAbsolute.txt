@@ -1,0 +1,16 @@
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\bin\Debug\net5.0\2-Butterfly.exe
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\bin\Debug\net5.0\2-Butterfly.deps.json
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\bin\Debug\net5.0\2-Butterfly.runtimeconfig.json
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\bin\Debug\net5.0\2-Butterfly.runtimeconfig.dev.json
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\bin\Debug\net5.0\2-Butterfly.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\bin\Debug\net5.0\ref\2-Butterfly.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\bin\Debug\net5.0\2-Butterfly.pdb
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.csproj.AssemblyReference.cache
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.AssemblyInfoInputs.cache
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.AssemblyInfo.cs
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\ref\2-Butterfly.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.pdb
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\2-Butterfly\obj\Debug\net5.0\2-Butterfly.genruntimeconfig.cache

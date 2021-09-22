@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x.mejia\\source\\repos\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj": {}
+    "C:\\Users\\x.mejia\\Desktop\\.NET\\Programming Basics with C#\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x.mejia\\source\\repos\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj": {
+    "C:\\Users\\x.mejia\\Desktop\\.NET\\Programming Basics with C#\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x.mejia\\source\\repos\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj",
+        "projectUniqueName": "C:\\Users\\x.mejia\\Desktop\\.NET\\Programming Basics with C#\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj",
         "projectName": "1-Drawing a Fort",
-        "projectPath": "C:\\Users\\x.mejia\\source\\repos\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj",
+        "projectPath": "C:\\Users\\x.mejia\\Desktop\\.NET\\Programming Basics with C#\\6.2. Bucles anidados\\1-Drawing a Fort\\1-Drawing a Fort.csproj",
         "packagesPath": "C:\\Users\\x.mejia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x.mejia\\source\\repos\\6.2. Bucles anidados\\1-Drawing a Fort\\obj\\",
+        "outputPath": "C:\\Users\\x.mejia\\Desktop\\.NET\\Programming Basics with C#\\6.2. Bucles anidados\\1-Drawing a Fort\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

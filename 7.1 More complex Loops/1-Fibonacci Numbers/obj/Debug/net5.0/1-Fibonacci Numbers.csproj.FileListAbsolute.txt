@@ -1,0 +1,15 @@
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\bin\Debug\net5.0\1-Fibonacci Numbers.exe
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\bin\Debug\net5.0\1-Fibonacci Numbers.deps.json
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\bin\Debug\net5.0\1-Fibonacci Numbers.runtimeconfig.json
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\bin\Debug\net5.0\1-Fibonacci Numbers.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\bin\Debug\net5.0\1-Fibonacci Numbers.dll
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\bin\Debug\net5.0\ref\1-Fibonacci Numbers.dll
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\bin\Debug\net5.0\1-Fibonacci Numbers.pdb
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\1-Fibonacci Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\1-Fibonacci Numbers.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\1-Fibonacci Numbers.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\1-Fibonacci Numbers.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\1-Fibonacci Numbers.dll
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\ref\1-Fibonacci Numbers.dll
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\1-Fibonacci Numbers.pdb
+C:\Users\x.mejia\source\repos\7.1 More complex Loops\1-Fibonacci Numbers\obj\Debug\net5.0\1-Fibonacci Numbers.genruntimeconfig.cache

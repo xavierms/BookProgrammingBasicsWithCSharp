@@ -1,0 +1,15 @@
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.exe
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.deps.json
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.runtimeconfig.json
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.runtimeconfig.dev.json
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\ref\3-Stop Sign.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.pdb
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.AssemblyInfoInputs.cache
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.AssemblyInfo.cs
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\ref\3-Stop Sign.dll
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.pdb
+C:\Users\x.mejia\Desktop\.NET\Programming Basics with C#\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.genruntimeconfig.cache
