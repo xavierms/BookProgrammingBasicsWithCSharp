@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Reivax\\Repositorios\\.NET\\ProgrammingBasicsWithCSharp\\BookProgrammingBasicsWithCSharp\\7.1. More Complex Loops\\3-Table\\3-Table.csproj": {}
+  },
+  "projects": {
+    "C:\\Reivax\\Repositorios\\.NET\\ProgrammingBasicsWithCSharp\\BookProgrammingBasicsWithCSharp\\7.1. More Complex Loops\\3-Table\\3-Table.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Reivax\\Repositorios\\.NET\\ProgrammingBasicsWithCSharp\\BookProgrammingBasicsWithCSharp\\7.1. More Complex Loops\\3-Table\\3-Table.csproj",
+        "projectName": "3-Table",
+        "projectPath": "C:\\Reivax\\Repositorios\\.NET\\ProgrammingBasicsWithCSharp\\BookProgrammingBasicsWithCSharp\\7.1. More Complex Loops\\3-Table\\3-Table.csproj",
+        "packagesPath": "C:\\Users\\xavie\\.nuget\\packages\\",
+        "outputPath": "C:\\Reivax\\Repositorios\\.NET\\ProgrammingBasicsWithCSharp\\BookProgrammingBasicsWithCSharp\\7.1. More Complex Loops\\3-Table\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\xavie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.303\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
