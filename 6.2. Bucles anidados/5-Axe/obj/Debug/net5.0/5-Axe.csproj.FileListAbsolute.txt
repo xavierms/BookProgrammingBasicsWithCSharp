@@ -1,0 +1,15 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\bin\Debug\net5.0\5-Axe.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\bin\Debug\net5.0\5-Axe.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\bin\Debug\net5.0\5-Axe.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\bin\Debug\net5.0\5-Axe.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\bin\Debug\net5.0\5-Axe.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\bin\Debug\net5.0\ref\5-Axe.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\bin\Debug\net5.0\5-Axe.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\5-Axe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\5-Axe.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\5-Axe.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\5-Axe.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\5-Axe.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\ref\5-Axe.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\5-Axe.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\5-Axe\obj\Debug\net5.0\5-Axe.genruntimeconfig.cache

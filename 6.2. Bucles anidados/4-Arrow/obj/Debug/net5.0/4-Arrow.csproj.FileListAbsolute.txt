@@ -1,0 +1,15 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\bin\Debug\net5.0\4-Arrow.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\bin\Debug\net5.0\4-Arrow.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\bin\Debug\net5.0\4-Arrow.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\bin\Debug\net5.0\4-Arrow.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\bin\Debug\net5.0\4-Arrow.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\bin\Debug\net5.0\ref\4-Arrow.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\bin\Debug\net5.0\4-Arrow.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\4-Arrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\4-Arrow.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\4-Arrow.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\4-Arrow.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\4-Arrow.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\ref\4-Arrow.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\4-Arrow.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\4-Arrow\obj\Debug\net5.0\4-Arrow.genruntimeconfig.cache

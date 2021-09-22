@@ -3,9 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Drawing a Fort", "1-Drawing a Fort\1-Drawing a Fort.csproj", "{63BC335F-F4C2-4C22-9807-35559CC2884C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Drawing a Fort", "1-Drawing a Fort\1-Drawing a Fort.csproj", "{63BC335F-F4C2-4C22-9807-35559CC2884C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Butterfly", "2-Butterfly\2-Butterfly.csproj", "{28A37BD5-A66A-4E6C-8459-E40F4C044D55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Butterfly", "2-Butterfly\2-Butterfly.csproj", "{28A37BD5-A66A-4E6C-8459-E40F4C044D55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Stop Sign", "3-Stop Sign\3-Stop Sign.csproj", "{52CC53B4-B083-4442-8C38-81D24E406C96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Arrow", "4-Arrow\4-Arrow.csproj", "{A345D48B-9537-4341-B67D-6B3159082D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Axe", "5-Axe\5-Axe.csproj", "{F520661F-0519-4967-A8C6-2F84D2C308CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +27,18 @@ Global
 		{28A37BD5-A66A-4E6C-8459-E40F4C044D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28A37BD5-A66A-4E6C-8459-E40F4C044D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28A37BD5-A66A-4E6C-8459-E40F4C044D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52CC53B4-B083-4442-8C38-81D24E406C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52CC53B4-B083-4442-8C38-81D24E406C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52CC53B4-B083-4442-8C38-81D24E406C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52CC53B4-B083-4442-8C38-81D24E406C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A345D48B-9537-4341-B67D-6B3159082D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A345D48B-9537-4341-B67D-6B3159082D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A345D48B-9537-4341-B67D-6B3159082D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A345D48B-9537-4341-B67D-6B3159082D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F520661F-0519-4967-A8C6-2F84D2C308CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F520661F-0519-4967-A8C6-2F84D2C308CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F520661F-0519-4967-A8C6-2F84D2C308CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F520661F-0519-4967-A8C6-2F84D2C308CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,16 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\ref\3-Stop Sign.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\bin\Debug\net5.0\3-Stop Sign.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\ref\3-Stop Sign.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.genruntimeconfig.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\6.2. Bucles anidados\3-Stop Sign\obj\Debug\net5.0\3-Stop Sign.csproj.AssemblyReference.cache
