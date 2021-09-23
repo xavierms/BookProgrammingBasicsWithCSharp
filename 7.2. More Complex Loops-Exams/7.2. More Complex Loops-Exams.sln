@@ -3,11 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Dumb Passwords Generator", "1-Dumb Passwords Generator\1-Dumb Passwords Generator.csproj", "{7B389AA1-BCEA-4DA1-BC9E-B67AAA63DFC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Dumb Passwords Generator", "1-Dumb Passwords Generator\1-Dumb Passwords Generator.csproj", "{7B389AA1-BCEA-4DA1-BC9E-B67AAA63DFC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Mgic Numbers", "2-Mgic Numbers\2-Mgic Numbers.csproj", "{B9133222-0466-4628-BA2E-3E8B5F733AE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Mgic Numbers", "2-Mgic Numbers\2-Mgic Numbers.csproj", "{B9133222-0466-4628-BA2E-3E8B5F733AE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Stop Number", "3-Stop Number\3-Stop Number.csproj", "{5867723F-449F-497F-AF09-B85F6FDB56DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-Stop Number", "3-Stop Number\3-Stop Number.csproj", "{5867723F-449F-497F-AF09-B85F6FDB56DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Special Numbers", "4-Special Numbers\4-Special Numbers.csproj", "{FC98FD35-FC35-4AB3-975C-F9A4A692AD79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Digits", "5-Digits\5-Digits.csproj", "{F989229E-266E-4E9C-B0E9-E41CBE1ABB23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{5867723F-449F-497F-AF09-B85F6FDB56DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5867723F-449F-497F-AF09-B85F6FDB56DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5867723F-449F-497F-AF09-B85F6FDB56DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC98FD35-FC35-4AB3-975C-F9A4A692AD79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC98FD35-FC35-4AB3-975C-F9A4A692AD79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC98FD35-FC35-4AB3-975C-F9A4A692AD79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC98FD35-FC35-4AB3-975C-F9A4A692AD79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F989229E-266E-4E9C-B0E9-E41CBE1ABB23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F989229E-266E-4E9C-B0E9-E41CBE1ABB23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F989229E-266E-4E9C-B0E9-E41CBE1ABB23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F989229E-266E-4E9C-B0E9-E41CBE1ABB23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\bin\Debug\netcoreapp2.1\4-Special Numbers.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\bin\Debug\netcoreapp2.1\4-Special Numbers.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\bin\Debug\netcoreapp2.1\4-Special Numbers.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\bin\Debug\netcoreapp2.1\4-Special Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\bin\Debug\netcoreapp2.1\4-Special Numbers.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\obj\Debug\netcoreapp2.1\4-Special Numbers.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\obj\Debug\netcoreapp2.1\4-Special Numbers.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\obj\Debug\netcoreapp2.1\4-Special Numbers.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\obj\Debug\netcoreapp2.1\4-Special Numbers.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\obj\Debug\netcoreapp2.1\4-Special Numbers.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\obj\Debug\netcoreapp2.1\4-Special Numbers.genruntimeconfig.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\4-Special Numbers\obj\Debug\netcoreapp2.1\4-Special Numbers.csproj.AssemblyReference.cache

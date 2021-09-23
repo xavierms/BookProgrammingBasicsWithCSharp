@@ -12,20 +12,21 @@ namespace _3_Stop_Number
 
             for (int i = M; i >= N; i--)
             {
-                if (N % 2 == 0 && N % 2 ==0)
+                if (i % 2 == 0 && i % 3 == 0)
                 {
-                    if (N == STOP)
+                    if (i == STOP)
                     {
+                       
                         break;
                     }
-                }
-                //if (N % 3 == 0)
-                //{
 
-                //}
+                    Console.Write(i  + ", ");
+                   
+                }
+
                
             }
-            Console.WriteLine(N);
+            
 
             Console.ReadKey();
             Console.Clear();
