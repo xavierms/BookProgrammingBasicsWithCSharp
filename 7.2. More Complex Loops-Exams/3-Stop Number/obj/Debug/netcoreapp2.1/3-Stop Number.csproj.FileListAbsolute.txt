@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\bin\Debug\netcoreapp2.1\3-Stop Number.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\bin\Debug\netcoreapp2.1\3-Stop Number.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\bin\Debug\netcoreapp2.1\3-Stop Number.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\bin\Debug\netcoreapp2.1\3-Stop Number.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\bin\Debug\netcoreapp2.1\3-Stop Number.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\obj\Debug\netcoreapp2.1\3-Stop Number.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\obj\Debug\netcoreapp2.1\3-Stop Number.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\obj\Debug\netcoreapp2.1\3-Stop Number.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\obj\Debug\netcoreapp2.1\3-Stop Number.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\obj\Debug\netcoreapp2.1\3-Stop Number.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\obj\Debug\netcoreapp2.1\3-Stop Number.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\7.2. More Complex Loops-Exams\3-Stop Number\obj\Debug\netcoreapp2.1\3-Stop Number.genruntimeconfig.cache
