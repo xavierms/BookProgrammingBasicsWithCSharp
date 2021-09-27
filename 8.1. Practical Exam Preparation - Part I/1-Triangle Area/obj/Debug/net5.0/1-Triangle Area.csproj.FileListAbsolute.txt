@@ -1,0 +1,16 @@
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\bin\Debug\net5.0\1-Triangle Area.exe
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\bin\Debug\net5.0\1-Triangle Area.deps.json
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\bin\Debug\net5.0\1-Triangle Area.runtimeconfig.json
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\bin\Debug\net5.0\1-Triangle Area.runtimeconfig.dev.json
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\bin\Debug\net5.0\1-Triangle Area.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\bin\Debug\net5.0\ref\1-Triangle Area.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\bin\Debug\net5.0\1-Triangle Area.pdb
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.csproj.AssemblyReference.cache
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.AssemblyInfoInputs.cache
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.AssemblyInfo.cs
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.csproj.CoreCompileInputs.cache
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\ref\1-Triangle Area.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.pdb
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\1-Triangle Area\obj\Debug\net5.0\1-Triangle Area.genruntimeconfig.cache

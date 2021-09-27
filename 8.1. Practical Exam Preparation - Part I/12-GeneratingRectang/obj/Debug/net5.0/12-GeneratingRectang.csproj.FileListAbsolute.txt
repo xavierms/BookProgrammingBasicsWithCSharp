@@ -1,0 +1,15 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\bin\Debug\net5.0\12-GeneratingRectang.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\bin\Debug\net5.0\12-GeneratingRectang.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\bin\Debug\net5.0\12-GeneratingRectang.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\bin\Debug\net5.0\12-GeneratingRectang.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\bin\Debug\net5.0\12-GeneratingRectang.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\bin\Debug\net5.0\ref\12-GeneratingRectang.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\bin\Debug\net5.0\12-GeneratingRectang.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\12-GeneratingRectang.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\12-GeneratingRectang.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\12-GeneratingRectang.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\12-GeneratingRectang.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\12-GeneratingRectang.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\ref\12-GeneratingRectang.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\12-GeneratingRectang.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\12-GeneratingRectang\obj\Debug\net5.0\12-GeneratingRectang.genruntimeconfig.cache

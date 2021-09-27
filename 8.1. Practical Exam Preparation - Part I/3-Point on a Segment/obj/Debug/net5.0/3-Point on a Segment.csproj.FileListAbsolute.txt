@@ -1,0 +1,16 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\bin\Debug\net5.0\3-Point on a Segment.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\bin\Debug\net5.0\3-Point on a Segment.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\bin\Debug\net5.0\3-Point on a Segment.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\bin\Debug\net5.0\3-Point on a Segment.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\bin\Debug\net5.0\3-Point on a Segment.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\bin\Debug\net5.0\ref\3-Point on a Segment.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\bin\Debug\net5.0\3-Point on a Segment.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.csproj.AssemblyReference.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\ref\3-Point on a Segment.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\3-Point on a Segment\obj\Debug\net5.0\3-Point on a Segment.genruntimeconfig.cache

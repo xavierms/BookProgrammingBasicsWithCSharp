@@ -1,0 +1,16 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\bin\Debug\net5.0\5-Date After 5 Days.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\bin\Debug\net5.0\5-Date After 5 Days.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\bin\Debug\net5.0\5-Date After 5 Days.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\bin\Debug\net5.0\5-Date After 5 Days.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\bin\Debug\net5.0\5-Date After 5 Days.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\bin\Debug\net5.0\ref\5-Date After 5 Days.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\bin\Debug\net5.0\5-Date After 5 Days.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.csproj.AssemblyReference.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\ref\5-Date After 5 Days.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\5-Date After 5 Days\obj\Debug\net5.0\5-Date After 5 Days.genruntimeconfig.cache

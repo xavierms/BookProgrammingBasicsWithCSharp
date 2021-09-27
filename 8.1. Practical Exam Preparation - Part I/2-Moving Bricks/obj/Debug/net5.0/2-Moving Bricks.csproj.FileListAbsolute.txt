@@ -1,0 +1,16 @@
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\bin\Debug\net5.0\2-Moving Bricks.exe
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\bin\Debug\net5.0\2-Moving Bricks.deps.json
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\bin\Debug\net5.0\2-Moving Bricks.runtimeconfig.json
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\bin\Debug\net5.0\2-Moving Bricks.runtimeconfig.dev.json
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\bin\Debug\net5.0\2-Moving Bricks.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\bin\Debug\net5.0\ref\2-Moving Bricks.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\bin\Debug\net5.0\2-Moving Bricks.pdb
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.csproj.AssemblyReference.cache
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.AssemblyInfoInputs.cache
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.AssemblyInfo.cs
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.csproj.CoreCompileInputs.cache
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\ref\2-Moving Bricks.dll
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.pdb
+C:\Users\xavie\source\repos\8.1. Practical Exam Preparation - Part I\2-Moving Bricks\obj\Debug\net5.0\2-Moving Bricks.genruntimeconfig.cache

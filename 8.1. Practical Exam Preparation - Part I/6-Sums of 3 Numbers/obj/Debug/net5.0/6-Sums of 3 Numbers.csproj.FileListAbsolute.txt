@@ -1,0 +1,15 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\bin\Debug\net5.0\6-Sums of 3 Numbers.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\bin\Debug\net5.0\6-Sums of 3 Numbers.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\bin\Debug\net5.0\6-Sums of 3 Numbers.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\bin\Debug\net5.0\6-Sums of 3 Numbers.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\bin\Debug\net5.0\6-Sums of 3 Numbers.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\bin\Debug\net5.0\ref\6-Sums of 3 Numbers.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\bin\Debug\net5.0\6-Sums of 3 Numbers.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\6-Sums of 3 Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\6-Sums of 3 Numbers.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\6-Sums of 3 Numbers.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\6-Sums of 3 Numbers.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\6-Sums of 3 Numbers.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\ref\6-Sums of 3 Numbers.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\6-Sums of 3 Numbers.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\6-Sums of 3 Numbers\obj\Debug\net5.0\6-Sums of 3 Numbers.genruntimeconfig.cache

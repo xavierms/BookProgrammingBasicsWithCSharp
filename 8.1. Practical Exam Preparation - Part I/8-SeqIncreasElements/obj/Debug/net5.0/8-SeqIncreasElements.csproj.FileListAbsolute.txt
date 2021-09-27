@@ -1,0 +1,15 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\bin\Debug\net5.0\8-SeqIncreasElements.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\bin\Debug\net5.0\8-SeqIncreasElements.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\bin\Debug\net5.0\8-SeqIncreasElements.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\bin\Debug\net5.0\8-SeqIncreasElements.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\bin\Debug\net5.0\8-SeqIncreasElements.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\bin\Debug\net5.0\ref\8-SeqIncreasElements.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\bin\Debug\net5.0\8-SeqIncreasElements.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\8-SeqIncreasElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\8-SeqIncreasElements.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\8-SeqIncreasElements.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\8-SeqIncreasElements.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\8-SeqIncreasElements.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\ref\8-SeqIncreasElements.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\8-SeqIncreasElements.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\8-SeqIncreasElements\obj\Debug\net5.0\8-SeqIncreasElements.genruntimeconfig.cache

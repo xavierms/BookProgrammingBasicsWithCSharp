@@ -1,0 +1,16 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\bin\Debug\net5.0\9-Perfect Diamond.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\bin\Debug\net5.0\9-Perfect Diamond.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\bin\Debug\net5.0\9-Perfect Diamond.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\bin\Debug\net5.0\9-Perfect Diamond.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\bin\Debug\net5.0\9-Perfect Diamond.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\bin\Debug\net5.0\ref\9-Perfect Diamond.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\bin\Debug\net5.0\9-Perfect Diamond.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\ref\9-Perfect Diamond.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.genruntimeconfig.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\9-Perfect Diamond\obj\Debug\net5.0\9-Perfect Diamond.csproj.AssemblyReference.cache

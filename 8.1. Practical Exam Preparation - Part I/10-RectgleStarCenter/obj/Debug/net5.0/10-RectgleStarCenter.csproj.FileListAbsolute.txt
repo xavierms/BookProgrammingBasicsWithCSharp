@@ -1,0 +1,16 @@
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\bin\Debug\net5.0\10-RectgleStarCenter.exe
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\bin\Debug\net5.0\10-RectgleStarCenter.deps.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\bin\Debug\net5.0\10-RectgleStarCenter.runtimeconfig.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\bin\Debug\net5.0\10-RectgleStarCenter.runtimeconfig.dev.json
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\bin\Debug\net5.0\10-RectgleStarCenter.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\bin\Debug\net5.0\ref\10-RectgleStarCenter.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\bin\Debug\net5.0\10-RectgleStarCenter.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.csproj.AssemblyReference.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.AssemblyInfoInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.AssemblyInfo.cs
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.csproj.CoreCompileInputs.cache
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\ref\10-RectgleStarCenter.dll
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.pdb
+C:\Reivax\Repositorios\.NET\ProgrammingBasicsWithCSharp\BookProgrammingBasicsWithCSharp\8.1. Practical Exam Preparation - Part I\10-RectgleStarCenter\obj\Debug\net5.0\10-RectgleStarCenter.genruntimeconfig.cache

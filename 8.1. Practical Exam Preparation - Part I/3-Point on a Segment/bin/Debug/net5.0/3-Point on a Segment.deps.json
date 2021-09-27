@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "3-Point on a Segment/1.0.0": {
+        "runtime": {
+          "3-Point on a Segment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3-Point on a Segment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
