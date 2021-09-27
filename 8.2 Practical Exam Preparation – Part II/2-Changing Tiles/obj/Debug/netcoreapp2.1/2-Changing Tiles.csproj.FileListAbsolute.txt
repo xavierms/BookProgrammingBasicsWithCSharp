@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\bin\Debug\netcoreapp2.1\2-Changing Tiles.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\bin\Debug\netcoreapp2.1\2-Changing Tiles.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\bin\Debug\netcoreapp2.1\2-Changing Tiles.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\bin\Debug\netcoreapp2.1\2-Changing Tiles.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\bin\Debug\netcoreapp2.1\2-Changing Tiles.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\obj\Debug\netcoreapp2.1\2-Changing Tiles.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\obj\Debug\netcoreapp2.1\2-Changing Tiles.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\obj\Debug\netcoreapp2.1\2-Changing Tiles.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\obj\Debug\netcoreapp2.1\2-Changing Tiles.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\obj\Debug\netcoreapp2.1\2-Changing Tiles.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\obj\Debug\netcoreapp2.1\2-Changing Tiles.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\2-Changing Tiles\obj\Debug\netcoreapp2.1\2-Changing Tiles.genruntimeconfig.cache

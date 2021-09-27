@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\bin\Debug\netcoreapp2.1\3- Flowers Shop.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\bin\Debug\netcoreapp2.1\3- Flowers Shop.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\bin\Debug\netcoreapp2.1\3- Flowers Shop.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\bin\Debug\netcoreapp2.1\3- Flowers Shop.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\bin\Debug\netcoreapp2.1\3- Flowers Shop.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\obj\Debug\netcoreapp2.1\3- Flowers Shop.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\obj\Debug\netcoreapp2.1\3- Flowers Shop.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\obj\Debug\netcoreapp2.1\3- Flowers Shop.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\obj\Debug\netcoreapp2.1\3- Flowers Shop.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\obj\Debug\netcoreapp2.1\3- Flowers Shop.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\obj\Debug\netcoreapp2.1\3- Flowers Shop.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\3- Flowers Shop\obj\Debug\netcoreapp2.1\3- Flowers Shop.genruntimeconfig.cache

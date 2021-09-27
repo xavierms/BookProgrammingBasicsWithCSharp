@@ -1,0 +1,11 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\bin\Debug\netcoreapp2.1\5-Christmas Hat.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\bin\Debug\netcoreapp2.1\5-Christmas Hat.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\bin\Debug\netcoreapp2.1\5-Christmas Hat.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\bin\Debug\netcoreapp2.1\5-Christmas Hat.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\bin\Debug\netcoreapp2.1\5-Christmas Hat.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.genruntimeconfig.cache

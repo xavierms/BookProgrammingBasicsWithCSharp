@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\bin\Debug\netcoreapp2.1\4-Grades.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\bin\Debug\netcoreapp2.1\4-Grades.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\bin\Debug\netcoreapp2.1\4-Grades.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\bin\Debug\netcoreapp2.1\4-Grades.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\bin\Debug\netcoreapp2.1\4-Grades.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\obj\Debug\netcoreapp2.1\4-Grades.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\obj\Debug\netcoreapp2.1\4-Grades.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\obj\Debug\netcoreapp2.1\4-Grades.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\obj\Debug\netcoreapp2.1\4-Grades.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\obj\Debug\netcoreapp2.1\4-Grades.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\obj\Debug\netcoreapp2.1\4-Grades.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\4-Grades\obj\Debug\netcoreapp2.1\4-Grades.genruntimeconfig.cache

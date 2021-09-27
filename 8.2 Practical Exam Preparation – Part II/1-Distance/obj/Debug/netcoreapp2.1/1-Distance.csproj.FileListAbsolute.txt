@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\bin\Debug\netcoreapp2.1\1-Distance.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\bin\Debug\netcoreapp2.1\1-Distance.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\bin\Debug\netcoreapp2.1\1-Distance.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\bin\Debug\netcoreapp2.1\1-Distance.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\bin\Debug\netcoreapp2.1\1-Distance.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\obj\Debug\netcoreapp2.1\1-Distance.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\obj\Debug\netcoreapp2.1\1-Distance.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\obj\Debug\netcoreapp2.1\1-Distance.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\obj\Debug\netcoreapp2.1\1-Distance.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\obj\Debug\netcoreapp2.1\1-Distance.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\obj\Debug\netcoreapp2.1\1-Distance.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\1-Distance\obj\Debug\netcoreapp2.1\1-Distance.genruntimeconfig.cache
