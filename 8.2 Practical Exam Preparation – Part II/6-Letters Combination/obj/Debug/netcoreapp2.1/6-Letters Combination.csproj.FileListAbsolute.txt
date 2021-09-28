@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\bin\Debug\netcoreapp2.1\6-Letters Combination.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\bin\Debug\netcoreapp2.1\6-Letters Combination.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\bin\Debug\netcoreapp2.1\6-Letters Combination.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\bin\Debug\netcoreapp2.1\6-Letters Combination.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\bin\Debug\netcoreapp2.1\6-Letters Combination.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\obj\Debug\netcoreapp2.1\6-Letters Combination.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\obj\Debug\netcoreapp2.1\6-Letters Combination.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\obj\Debug\netcoreapp2.1\6-Letters Combination.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\obj\Debug\netcoreapp2.1\6-Letters Combination.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\obj\Debug\netcoreapp2.1\6-Letters Combination.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\obj\Debug\netcoreapp2.1\6-Letters Combination.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\6-Letters Combination\obj\Debug\netcoreapp2.1\6-Letters Combination.genruntimeconfig.cache

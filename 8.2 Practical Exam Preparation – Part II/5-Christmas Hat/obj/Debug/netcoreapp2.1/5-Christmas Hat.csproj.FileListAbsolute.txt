@@ -9,3 +9,4 @@ C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Prep
 C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.dll
 C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.pdb
 C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.genruntimeconfig.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\8.2 Practical Exam Preparation – Part II\5-Christmas Hat\obj\Debug\netcoreapp2.1\5-Christmas Hat.csproj.AssemblyReference.cache

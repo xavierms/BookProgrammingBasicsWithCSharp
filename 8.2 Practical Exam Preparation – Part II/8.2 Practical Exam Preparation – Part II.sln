@@ -5,13 +5,15 @@ VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Distance", "1-Distance\1-Distance.csproj", "{F6A2E526-E4CD-4B4C-8358-D1D1DC1A2B28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Changing Tiles", "2-Changing Tiles\2-Changing Tiles.csproj", "{A64807DB-8D97-4EE7-B90D-EAEC01B0FFF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Changing Tiles", "2-Changing Tiles\2-Changing Tiles.csproj", "{A64807DB-8D97-4EE7-B90D-EAEC01B0FFF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3- Flowers Shop", "3- Flowers Shop\3- Flowers Shop.csproj", "{05C36811-C97C-4644-8386-9F81ADD42F51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3- Flowers Shop", "3- Flowers Shop\3- Flowers Shop.csproj", "{05C36811-C97C-4644-8386-9F81ADD42F51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4-Grades", "4-Grades\4-Grades.csproj", "{ECCDB009-5880-4F2F-8532-975485690C82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-Grades", "4-Grades\4-Grades.csproj", "{ECCDB009-5880-4F2F-8532-975485690C82}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-Christmas Hat", "5-Christmas Hat\5-Christmas Hat.csproj", "{AD813F20-3E47-45FA-A69B-4103B38DD362}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-Christmas Hat", "5-Christmas Hat\5-Christmas Hat.csproj", "{AD813F20-3E47-45FA-A69B-4103B38DD362}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-Letters Combination", "6-Letters Combination\6-Letters Combination.csproj", "{4228EB36-6676-457A-B18C-7220F05ADF39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{AD813F20-3E47-45FA-A69B-4103B38DD362}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD813F20-3E47-45FA-A69B-4103B38DD362}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD813F20-3E47-45FA-A69B-4103B38DD362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4228EB36-6676-457A-B18C-7220F05ADF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4228EB36-6676-457A-B18C-7220F05ADF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4228EB36-6676-457A-B18C-7220F05ADF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4228EB36-6676-457A-B18C-7220F05ADF39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
