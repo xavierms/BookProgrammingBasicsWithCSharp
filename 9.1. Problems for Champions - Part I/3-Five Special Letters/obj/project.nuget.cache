@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iSsimL33qLqCkgKOE60XGpCVfSDFah341SOCz0eDw1xrYhIFfIZI2cAQ43sHgKi8zqDaIH2dcxXovOdAe1KybQ==",
+  "dgSpecHash": "Eyi1BEYOX3wZtgDr7V9iZM9XbTtMemRSAIGwYvu5jPN67ANQ4BwWq+z10udPnDb9nfwwogCD/weFltfOa7YkSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj",
+  "projectFilePath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\3-Five Special Letters\\3-Five Special Letters.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

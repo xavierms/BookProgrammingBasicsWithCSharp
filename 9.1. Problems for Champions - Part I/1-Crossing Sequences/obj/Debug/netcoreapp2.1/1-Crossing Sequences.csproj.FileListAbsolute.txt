@@ -10,3 +10,15 @@ C:\Users\x.mejia\source\repos\9.1. Problems for Champions - Part I\1-Crossing Se
 C:\Users\x.mejia\source\repos\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.dll
 C:\Users\x.mejia\source\repos\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.pdb
 C:\Users\x.mejia\source\repos\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.genruntimeconfig.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\bin\Debug\netcoreapp2.1\1-Crossing Sequences.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\bin\Debug\netcoreapp2.1\1-Crossing Sequences.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\bin\Debug\netcoreapp2.1\1-Crossing Sequences.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\bin\Debug\netcoreapp2.1\1-Crossing Sequences.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\bin\Debug\netcoreapp2.1\1-Crossing Sequences.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\1-Crossing Sequences\obj\Debug\netcoreapp2.1\1-Crossing Sequences.genruntimeconfig.cache

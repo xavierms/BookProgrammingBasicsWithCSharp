@@ -21,23 +21,22 @@ namespace _1_Crossing_Sequences
             };
             var tribonacciCurrent = tribonacciThird;
 
-            while (tribonacciCurrent < 1000000)
+            var spiralNumbers = new List<int>() 
+            { 
+                spiralCurrent 
+            };
+            var spiralCount   = 0;
+            var spiralStepMul = 1;
+            while (tribonacciCurrent < 1000000 && spiralCurrent < 1000000)
             {
                 tribonacciCurrent = tribonacciFIrts + tribonacciSecond + tribonacciThird;
 
                 tribonacciNumbers.Add(tribonacciCurrent);
 
-                tribonacciFIrts = tribonacciSecond;
+                tribonacciFIrts  = tribonacciSecond;
                 tribonacciSecond = tribonacciThird;
-                tribonacciThird = tribonacciCurrent;
-            }
-            var spiralNumbers = new List<int>() { spiralCurrent };
-            var spiralCount   = 0;
-            var spiralStepMul = 1;
-
-            while (spiralCurrent < 1000000)
-            {
-                spiralCurrent += spiralStep * spiralStepMul;
+                tribonacciThird  = tribonacciCurrent;
+                spiralCurrent   += spiralStep * spiralStepMul;
 
                 spiralNumbers.Add(spiralCurrent);
                 spiralCount++;
@@ -46,6 +45,7 @@ namespace _1_Crossing_Sequences
                 {
                     spiralStepMul++;
                 }
+
             }
 
             var found = false;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\2-Magic Dates\\2-Magic Dates.csproj": {}
+    "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\3-Five Special Letters\\3-Five Special Letters.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\2-Magic Dates\\2-Magic Dates.csproj": {
+    "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\3-Five Special Letters\\3-Five Special Letters.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\2-Magic Dates\\2-Magic Dates.csproj",
-        "projectName": "2-Magic Dates",
-        "projectPath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\2-Magic Dates\\2-Magic Dates.csproj",
+        "projectUniqueName": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\3-Five Special Letters\\3-Five Special Letters.csproj",
+        "projectName": "3-Five Special Letters",
+        "projectPath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\3-Five Special Letters\\3-Five Special Letters.csproj",
         "packagesPath": "C:\\Users\\x.mejia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\2-Magic Dates\\obj\\",
+        "outputPath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\3-Five Special Letters\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

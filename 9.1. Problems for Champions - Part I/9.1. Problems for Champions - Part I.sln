@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-Crossing Sequences", "1-Crossing Sequences\1-Crossing Sequences.csproj", "{D22D87A8-7F75-4ADD-90C0-38641EE4240D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-Crossing Sequences", "1-Crossing Sequences\1-Crossing Sequences.csproj", "{D22D87A8-7F75-4ADD-90C0-38641EE4240D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-Magic Dates", "2-Magic Dates\2-Magic Dates.csproj", "{580401FE-EA52-467A-979C-6886269DCB55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-Magic Dates", "2-Magic Dates\2-Magic Dates.csproj", "{580401FE-EA52-467A-979C-6886269DCB55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3-Five Special Letters", "3-Five Special Letters\3-Five Special Letters.csproj", "{14DB9B26-2197-4EE3-9F81-EDB4C954ED10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{580401FE-EA52-467A-979C-6886269DCB55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{580401FE-EA52-467A-979C-6886269DCB55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{580401FE-EA52-467A-979C-6886269DCB55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14DB9B26-2197-4EE3-9F81-EDB4C954ED10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14DB9B26-2197-4EE3-9F81-EDB4C954ED10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14DB9B26-2197-4EE3-9F81-EDB4C954ED10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14DB9B26-2197-4EE3-9F81-EDB4C954ED10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

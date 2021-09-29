@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\bin\Debug\netcoreapp2.1\2-Magic Dates.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\bin\Debug\netcoreapp2.1\2-Magic Dates.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\bin\Debug\netcoreapp2.1\2-Magic Dates.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\bin\Debug\netcoreapp2.1\2-Magic Dates.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\bin\Debug\netcoreapp2.1\2-Magic Dates.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\obj\Debug\netcoreapp2.1\2-Magic Dates.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\obj\Debug\netcoreapp2.1\2-Magic Dates.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\obj\Debug\netcoreapp2.1\2-Magic Dates.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\obj\Debug\netcoreapp2.1\2-Magic Dates.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\obj\Debug\netcoreapp2.1\2-Magic Dates.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\obj\Debug\netcoreapp2.1\2-Magic Dates.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\2-Magic Dates\obj\Debug\netcoreapp2.1\2-Magic Dates.genruntimeconfig.cache

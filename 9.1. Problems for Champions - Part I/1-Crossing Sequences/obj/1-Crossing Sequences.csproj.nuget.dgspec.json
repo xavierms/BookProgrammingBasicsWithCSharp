@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\x.mejia\\source\\repos\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj": {}
+    "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj": {}
   },
   "projects": {
-    "C:\\Users\\x.mejia\\source\\repos\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj": {
+    "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\x.mejia\\source\\repos\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj",
+        "projectUniqueName": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj",
         "projectName": "1-Crossing Sequences",
-        "projectPath": "C:\\Users\\x.mejia\\source\\repos\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj",
+        "projectPath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\1-Crossing Sequences.csproj",
         "packagesPath": "C:\\Users\\x.mejia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\x.mejia\\source\\repos\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\obj\\",
+        "outputPath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.1. Problems for Champions - Part I\\1-Crossing Sequences\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
