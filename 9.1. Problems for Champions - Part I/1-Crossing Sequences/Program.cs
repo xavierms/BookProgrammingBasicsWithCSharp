@@ -45,9 +45,7 @@ namespace _1_Crossing_Sequences
                 {
                     spiralStepMul++;
                 }
-
             }
-
             var found = false;
             for (int i = 0; i < tribonacciNumbers.Count; i++)
             {
@@ -70,8 +68,6 @@ namespace _1_Crossing_Sequences
             {
                 Console.WriteLine("No");
             }
-
-
 
             Console.ReadKey();
             Console.Clear();

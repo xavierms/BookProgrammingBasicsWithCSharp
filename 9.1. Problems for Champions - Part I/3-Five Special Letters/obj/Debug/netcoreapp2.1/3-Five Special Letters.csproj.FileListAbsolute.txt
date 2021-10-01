@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\bin\Debug\netcoreapp2.1\3-Five Special Letters.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\bin\Debug\netcoreapp2.1\3-Five Special Letters.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\bin\Debug\netcoreapp2.1\3-Five Special Letters.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\bin\Debug\netcoreapp2.1\3-Five Special Letters.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\bin\Debug\netcoreapp2.1\3-Five Special Letters.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\obj\Debug\netcoreapp2.1\3-Five Special Letters.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\obj\Debug\netcoreapp2.1\3-Five Special Letters.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\obj\Debug\netcoreapp2.1\3-Five Special Letters.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\obj\Debug\netcoreapp2.1\3-Five Special Letters.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\obj\Debug\netcoreapp2.1\3-Five Special Letters.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\obj\Debug\netcoreapp2.1\3-Five Special Letters.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.1. Problems for Champions - Part I\3-Five Special Letters\obj\Debug\netcoreapp2.1\3-Five Special Letters.genruntimeconfig.cache

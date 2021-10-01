@@ -29,7 +29,7 @@ namespace _2_Magic_Dates
                 int d7 = (currentDate.Year / 10) % 10;
                 int d8 = currentDate.Year % 10;
 
-                //27 for
+                //8 for
                 //for (int d1 = 0; d1 < length; d1++)
                 //{
 
