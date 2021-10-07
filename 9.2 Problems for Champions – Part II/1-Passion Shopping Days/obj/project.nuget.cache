@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "47A3NbgP3FZ7vOUwUF81U1mZsP9Nmp0fvSzlp9LZjR3U3O11PGOSlTaZaN99V+ZXWKg1H84SfL1Z8Kzdkz7NSQ==",
+  "dgSpecHash": "gO/d2erlxiMk/twA18CZw28v+z0mNU8HvFCBEXQXmESJ6Yd6AeSEP5IZvRjE47whf/rk25Hc5+kkiMxNEXqT7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\x.mejia\\source\\repos\\9.2 Problems for Champions – Part II\\1-Passion Shopping Days\\1-Passion Shopping Days.csproj",
+  "projectFilePath": "C:\\Users\\x.mejia\\source\\repos\\HowToBecomeAProgrammerBook\\9.2 Problems for Champions – Part II\\1-Passion Shopping Days\\1-Passion Shopping Days.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

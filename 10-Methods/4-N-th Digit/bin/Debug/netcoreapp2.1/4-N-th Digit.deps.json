@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "4-N-th Digit/1.0.0": {
+        "runtime": {
+          "4-N-th Digit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4-N-th Digit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

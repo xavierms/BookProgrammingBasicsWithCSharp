@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\bin\Debug\netcoreapp2.1\4-N-th Digit.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\bin\Debug\netcoreapp2.1\4-N-th Digit.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\bin\Debug\netcoreapp2.1\4-N-th Digit.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\bin\Debug\netcoreapp2.1\4-N-th Digit.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\bin\Debug\netcoreapp2.1\4-N-th Digit.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\obj\Debug\netcoreapp2.1\4-N-th Digit.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\obj\Debug\netcoreapp2.1\4-N-th Digit.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\obj\Debug\netcoreapp2.1\4-N-th Digit.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\obj\Debug\netcoreapp2.1\4-N-th Digit.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\obj\Debug\netcoreapp2.1\4-N-th Digit.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\obj\Debug\netcoreapp2.1\4-N-th Digit.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\4-N-th Digit\obj\Debug\netcoreapp2.1\4-N-th Digit.genruntimeconfig.cache

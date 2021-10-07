@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\bin\Debug\netcoreapp2.1\6-Notifications.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\bin\Debug\netcoreapp2.1\6-Notifications.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\bin\Debug\netcoreapp2.1\6-Notifications.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\bin\Debug\netcoreapp2.1\6-Notifications.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\bin\Debug\netcoreapp2.1\6-Notifications.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\obj\Debug\netcoreapp2.1\6-Notifications.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\obj\Debug\netcoreapp2.1\6-Notifications.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\obj\Debug\netcoreapp2.1\6-Notifications.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\obj\Debug\netcoreapp2.1\6-Notifications.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\obj\Debug\netcoreapp2.1\6-Notifications.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\obj\Debug\netcoreapp2.1\6-Notifications.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\6-Notifications\obj\Debug\netcoreapp2.1\6-Notifications.genruntimeconfig.cache

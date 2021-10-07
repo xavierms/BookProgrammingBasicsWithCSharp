@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\bin\Debug\netcoreapp2.1\7-Numbers to Words.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\bin\Debug\netcoreapp2.1\7-Numbers to Words.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\bin\Debug\netcoreapp2.1\7-Numbers to Words.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\bin\Debug\netcoreapp2.1\7-Numbers to Words.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\bin\Debug\netcoreapp2.1\7-Numbers to Words.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\obj\Debug\netcoreapp2.1\7-Numbers to Words.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\obj\Debug\netcoreapp2.1\7-Numbers to Words.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\obj\Debug\netcoreapp2.1\7-Numbers to Words.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\obj\Debug\netcoreapp2.1\7-Numbers to Words.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\obj\Debug\netcoreapp2.1\7-Numbers to Words.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\obj\Debug\netcoreapp2.1\7-Numbers to Words.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\7-Numbers to Words\obj\Debug\netcoreapp2.1\7-Numbers to Words.genruntimeconfig.cache

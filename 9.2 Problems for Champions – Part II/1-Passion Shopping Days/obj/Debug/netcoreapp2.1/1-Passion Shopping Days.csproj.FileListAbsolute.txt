@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\bin\Debug\netcoreapp2.1\1-Passion Shopping Days.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\bin\Debug\netcoreapp2.1\1-Passion Shopping Days.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\bin\Debug\netcoreapp2.1\1-Passion Shopping Days.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\bin\Debug\netcoreapp2.1\1-Passion Shopping Days.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\bin\Debug\netcoreapp2.1\1-Passion Shopping Days.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\obj\Debug\netcoreapp2.1\1-Passion Shopping Days.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\obj\Debug\netcoreapp2.1\1-Passion Shopping Days.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\obj\Debug\netcoreapp2.1\1-Passion Shopping Days.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\obj\Debug\netcoreapp2.1\1-Passion Shopping Days.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\obj\Debug\netcoreapp2.1\1-Passion Shopping Days.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\obj\Debug\netcoreapp2.1\1-Passion Shopping Days.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\9.2 Problems for Champions – Part II\1-Passion Shopping Days\obj\Debug\netcoreapp2.1\1-Passion Shopping Days.genruntimeconfig.cache

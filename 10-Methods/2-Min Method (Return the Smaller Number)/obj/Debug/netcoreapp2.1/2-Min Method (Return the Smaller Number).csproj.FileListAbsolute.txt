@@ -1,0 +1,11 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\bin\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\bin\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\bin\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\bin\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\bin\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\obj\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\obj\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\obj\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\obj\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\obj\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\2-Min Method (Return the Smaller Number)\obj\Debug\netcoreapp2.1\2-Min Method (Return the Smaller Number).genruntimeconfig.cache

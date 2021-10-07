@@ -1,0 +1,11 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\bin\Debug\netcoreapp2.1\5-Integer to Base.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\bin\Debug\netcoreapp2.1\5-Integer to Base.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\bin\Debug\netcoreapp2.1\5-Integer to Base.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\bin\Debug\netcoreapp2.1\5-Integer to Base.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\bin\Debug\netcoreapp2.1\5-Integer to Base.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\obj\Debug\netcoreapp2.1\5-Integer to Base.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\obj\Debug\netcoreapp2.1\5-Integer to Base.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\obj\Debug\netcoreapp2.1\5-Integer to Base.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\obj\Debug\netcoreapp2.1\5-Integer to Base.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\obj\Debug\netcoreapp2.1\5-Integer to Base.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\5-Integer to Base\obj\Debug\netcoreapp2.1\5-Integer to Base.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "6-Notifications/1.0.0": {
+        "runtime": {
+          "6-Notifications.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "6-Notifications/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

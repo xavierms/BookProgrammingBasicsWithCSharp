@@ -1,0 +1,12 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\obj\Debug\netcoreapp2.1\1-Hello, Name!.csproj.AssemblyReference.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\obj\Debug\netcoreapp2.1\1-Hello, Name!.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\obj\Debug\netcoreapp2.1\1-Hello, Name!.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\obj\Debug\netcoreapp2.1\1-Hello, Name!.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\bin\Debug\netcoreapp2.1\1-Hello, Name!.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\bin\Debug\netcoreapp2.1\1-Hello, Name!.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\bin\Debug\netcoreapp2.1\1-Hello, Name!.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\bin\Debug\netcoreapp2.1\1-Hello, Name!.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\bin\Debug\netcoreapp2.1\1-Hello, Name!.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\obj\Debug\netcoreapp2.1\1-Hello, Name!.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\obj\Debug\netcoreapp2.1\1-Hello, Name!.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\1-Hello, Name!\obj\Debug\netcoreapp2.1\1-Hello, Name!.genruntimeconfig.cache

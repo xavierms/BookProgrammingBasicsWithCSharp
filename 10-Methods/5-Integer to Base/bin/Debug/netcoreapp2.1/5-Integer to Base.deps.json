@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "5-Integer to Base/1.0.0": {
+        "runtime": {
+          "5-Integer to Base.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "5-Integer to Base/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

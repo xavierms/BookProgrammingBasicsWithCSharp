@@ -1,0 +1,11 @@
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\bin\Debug\netcoreapp2.1\3-String Repeater.deps.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\bin\Debug\netcoreapp2.1\3-String Repeater.runtimeconfig.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\bin\Debug\netcoreapp2.1\3-String Repeater.runtimeconfig.dev.json
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\bin\Debug\netcoreapp2.1\3-String Repeater.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\bin\Debug\netcoreapp2.1\3-String Repeater.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\obj\Debug\netcoreapp2.1\3-String Repeater.AssemblyInfoInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\obj\Debug\netcoreapp2.1\3-String Repeater.AssemblyInfo.cs
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\obj\Debug\netcoreapp2.1\3-String Repeater.csproj.CoreCompileInputs.cache
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\obj\Debug\netcoreapp2.1\3-String Repeater.dll
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\obj\Debug\netcoreapp2.1\3-String Repeater.pdb
+C:\Users\x.mejia\source\repos\HowToBecomeAProgrammerBook\10-Methods\3-String Repeater\obj\Debug\netcoreapp2.1\3-String Repeater.genruntimeconfig.cache
